@@ -57,6 +57,7 @@
               <overWriteSnapshots>false</overWriteSnapshots>
               <overWriteIfNewer>true</overWriteIfNewer>
               <excludeTransitive>true</excludeTransitive>
+              <includeScope>compile</includeScope>
             </configuration>
           </execution>
         </executions>
