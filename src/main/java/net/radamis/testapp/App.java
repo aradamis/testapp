@@ -13,6 +13,7 @@ import java.io.IOException;
 public class App
 {
     private static void run() {
+      System.out.println("Starting Download");
       try{
         URL url = new URL("http://serenity:8080/ip.php");
 
